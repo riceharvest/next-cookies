@@ -1,6 +1,6 @@
 {
   "name": "@opensourceframework/next-cookies",
-  "version": "2.1.3",
+  "version": "2.1.2",
   "description": "get the cookies on both the client & server - Maintained fork of next-cookies",
   "keywords": [
     "cookies",
@@ -35,8 +35,7 @@
     "dist",
     "README.md",
     "CHANGELOG.md",
-    "LICENSE",
-    "llms.txt"
+    "LICENSE"
   ],
   "scripts": {
     "build": "tsup",
@@ -60,7 +59,7 @@
     "react-dom": "^19.0.0",
     "tsup": "^8.0.0",
     "typescript": "^5.0.0",
-    "vitest": "^4.0.18"
+    "vitest": "^2.0.0"
   },
   "peerDependencies": {
     "next": ">=12.0.0",
